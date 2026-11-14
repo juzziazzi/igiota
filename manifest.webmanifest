@@ -1,0 +1,9 @@
+{
+  "name": "iGiota — Controle de dívidas",
+  "short_name": "iGiota",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#10243b",
+  "description": "Controle pessoal de dívidas em reais e euros."
+}
